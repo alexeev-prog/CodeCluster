@@ -39,6 +39,7 @@ cd CodeCluster
 
 # OR
 cd CodeCluster
+
 mkdir build && cd build
 cmake ..
 make install
