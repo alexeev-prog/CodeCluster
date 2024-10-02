@@ -1,3 +1,4 @@
+@mainpage
 # CodeCluster
 
 <p align="center">Innovative modern and blazing fast version control system in C/C++</p>

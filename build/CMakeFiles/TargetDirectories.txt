@@ -1,0 +1,10 @@
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/codecluster_lib.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/codecluster_exe.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/package.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/package_source.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/edit_cache.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/rebuild_cache.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/list_install_components.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/install.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/install/local.dir
+/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles/install/strip.dir

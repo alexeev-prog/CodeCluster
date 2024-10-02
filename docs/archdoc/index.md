@@ -1,1 +1,0 @@
-# ArchDoc - Architectury Document

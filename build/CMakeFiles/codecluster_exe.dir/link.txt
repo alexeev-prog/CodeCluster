@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/codecluster_exe.dir/source/main.cpp.o CMakeFiles/codecluster_lib.dir/source/lib.cpp.o -o codecluster  /usr/lib/libfmt.so.11.0.2
