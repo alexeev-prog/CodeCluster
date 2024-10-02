@@ -73,15 +73,15 @@ CMakeFiles/codecluster_exe.dir/source/main.cpp.o: CMakeFiles/codecluster_exe.dir
 CMakeFiles/codecluster_exe.dir/source/main.cpp.o: /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp
 CMakeFiles/codecluster_exe.dir/source/main.cpp.o: CMakeFiles/codecluster_exe.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/codecluster_exe.dir/source/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/codecluster_exe.dir/source/main.cpp.o -MF CMakeFiles/codecluster_exe.dir/source/main.cpp.o.d -o CMakeFiles/codecluster_exe.dir/source/main.cpp.o -c /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/codecluster_exe.dir/source/main.cpp.o -MF CMakeFiles/codecluster_exe.dir/source/main.cpp.o.d -o CMakeFiles/codecluster_exe.dir/source/main.cpp.o -c /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp
 
 CMakeFiles/codecluster_exe.dir/source/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/codecluster_exe.dir/source/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp > CMakeFiles/codecluster_exe.dir/source/main.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp > CMakeFiles/codecluster_exe.dir/source/main.cpp.i
 
 CMakeFiles/codecluster_exe.dir/source/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/codecluster_exe.dir/source/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp -o CMakeFiles/codecluster_exe.dir/source/main.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alexeev/Desktop/Projects/CodeCluster/source/main.cpp -o CMakeFiles/codecluster_exe.dir/source/main.cpp.s
 
 # Object files for target codecluster_exe
 codecluster_exe_OBJECTS = \

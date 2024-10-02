@@ -73,15 +73,15 @@ CMakeFiles/codecluster_lib.dir/source/lib.cpp.o: CMakeFiles/codecluster_lib.dir/
 CMakeFiles/codecluster_lib.dir/source/lib.cpp.o: /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp
 CMakeFiles/codecluster_lib.dir/source/lib.cpp.o: CMakeFiles/codecluster_lib.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alexeev/Desktop/Projects/CodeCluster/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/codecluster_lib.dir/source/lib.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/codecluster_lib.dir/source/lib.cpp.o -MF CMakeFiles/codecluster_lib.dir/source/lib.cpp.o.d -o CMakeFiles/codecluster_lib.dir/source/lib.cpp.o -c /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/codecluster_lib.dir/source/lib.cpp.o -MF CMakeFiles/codecluster_lib.dir/source/lib.cpp.o.d -o CMakeFiles/codecluster_lib.dir/source/lib.cpp.o -c /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp
 
 CMakeFiles/codecluster_lib.dir/source/lib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/codecluster_lib.dir/source/lib.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp > CMakeFiles/codecluster_lib.dir/source/lib.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp > CMakeFiles/codecluster_lib.dir/source/lib.cpp.i
 
 CMakeFiles/codecluster_lib.dir/source/lib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/codecluster_lib.dir/source/lib.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp -o CMakeFiles/codecluster_lib.dir/source/lib.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alexeev/Desktop/Projects/CodeCluster/source/lib.cpp -o CMakeFiles/codecluster_lib.dir/source/lib.cpp.s
 
 codecluster_lib: CMakeFiles/codecluster_lib.dir/source/lib.cpp.o
 codecluster_lib: CMakeFiles/codecluster_lib.dir/build.make

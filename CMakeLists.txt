@@ -4,7 +4,7 @@ include(cmake/prelude.cmake)
 
 project(
     codecluster
-    VERSION 0.1.0
+    VERSION 0.1.1
     DESCRIPTION "Innovative modern and blazing fast version control system in C/C++"
     HOMEPAGE_URL "https://alexeev-prog.github.io/CodeCluster"
     LANGUAGES CXX

@@ -2,4 +2,4 @@
 
 #include <fmt/core.h>
 
-library::library() : name{fmt::format("{}", "codecluster")} {}
+library::library() : name{fmt::format("{}", "CodeCluster")} {}

@@ -82,7 +82,7 @@ print_header "Configuring the project"
 print_step "Running CMake in $BUILD_DIR..."
 cd "$BUILD_DIR"
 
-cmake .. -Dlibnumerixpp_DEVELOPER_MODE=ON
+cmake .. -Dcodecluster_DEVELOPER_MODE=ON
 
 if [ $? -eq 0 ]; then
 	print_success "CMake configuration completed successfully."

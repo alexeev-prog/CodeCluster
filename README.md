@@ -20,6 +20,8 @@ Basic position: A best delta algorithm, best compression and network efficiency.
 
  > You can view docs for CodeCluster [here](https://alexeev-prog.github.io/CodeCluster).
 
+Current version: 0.1.1 Alpha
+
 ## Usage
 To use CodeCluster in your project, follow these steps:
 
@@ -38,7 +40,7 @@ cd CodeCluster
 # OR
 cd CodeCluster
 mkdir build && cd build
-cmake .. # or cmake .. -DBUILD_SHARED_LIBS=ON
+cmake ..
 make install
 ```
 
