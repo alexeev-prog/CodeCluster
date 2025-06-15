@@ -35,7 +35,7 @@ git clone https://github.com/alexeev-prog/CodeCluster.git
 
 ```bash
 cd CodeCluster
-./build.sh
+./build.sh all
 
 # OR
 cd CodeCluster
